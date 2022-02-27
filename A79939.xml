@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Cantique de triomphe sur la victoire navale des Anglois &amp; des Hollandois remportée sur les François, le 29. May 1692.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79939</idno>
+            <idno type="STC">Wing C462B</idno>
+            <idno type="STC">ESTC R173379</idno>
+            <idno type="EEBO-CITATION">43663201</idno>
+            <idno type="OCLC">ocm 43663201</idno>
+            <idno type="VID">171938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2602:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Cantique de triomphe sur la victoire navale des Anglois &amp; des Hollandois remportée sur les François, le 29. May 1692.</title>
+                  <author>Delage, J. bookseller.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Se vendent par J. Delage, &amp; par tous les Portiers des Eglises Françoises.</publisher>
+                  <pubPlace>A Londres, :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Poetry.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171938:1" rendition="simple:additions"/>
+            <p>CANTIQUE DE TRIOMPHE SUR LA VICTOIRE NAVALE Des ANGLOIS &amp; des HOLLANDOIS.</p>
+            <p>Remportée ſur les François, le 29. May 1692.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>A LONDRES,</hi> Se vendent par J. DELAGE, &amp; par tous les Por<g ref="char:EOLhyphen"/>tiers des Egliſes Françoiſes. 1692.</p>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:171938:2"/>
+            <head>AVERTISSEMENT.</head>
+            <p>SI ce Cantique n'avoit rien au deſſus des Chants Ordinaires, on ne s'aviſeroit pas ſur le tard de le donner au Public; mais il paroît dans ces Vers, un feu ſi Noble, &amp; ſi digne de la Victoire qu'on y chante, qu'un petit retar<g ref="char:EOLhyphen"/>dement ne fera ſans doute rien perdre du Me<g ref="char:EOLhyphen"/>rite de cette Piece, &amp; que ſemblable à ces Tableaux qui partent d'une excellente main, elle vaudra toûjours ſon prix, en quelque temps qu'on la produiſe. On n'a pû la refuſer à la cu<g ref="char:EOLhyphen"/>rioſité de tant de Gens qui en avoient entendu parler avec Eloge, &amp; même à l'impatience de quelques-uns de fort bon goût, qui l'avoient dêja lüe avec un extréme plaiſir. Cependant, quoy que la Reputation de ſon Auteur ne coure aucun riſque s'il ſe decouvroit des à preſent, il a voulu modeſtement imiter ce Fameux Peintre de l' Anti<g ref="char:EOLhyphen"/>quité, qui ſe cachoit derriere le Tableau qu'il venoit de finir, afin d'entendre le Jugement des Critiques, ſur ſon Ouvrage, avant que de ſe faire connoître.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:171938:2"/>
+            <head>
+               <hi>CANTIQUE DE TRIOMPHE SUR LA VICTOIRE NAVALE</hi> Des Anglois &amp; des Hollandois, Remportée ſur les François, le 29. May 1692.</head>
+            <lg>
+               <l>FIFRES, Tambours, Hautbois, Muſettes,</l>
+               <l>Canons, éclatantes Trompettes,</l>
+               <l>Feux Volans, qui fendez les airs:</l>
+               <l>Orgues, dont les Voix Autentiques,</l>
+               <l>Font l'honneur des Fêtes Publiques,</l>
+               <l>Aprenez à tout l'Univers,</l>
+               <l>Que le grand Flambeau de la Guerre,</l>
+               <l>Qui déſoloit toute la Terre,</l>
+               <l>Va voir ſes feux éteints par un juſte revers.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:171938:3"/>
+               <l>Le SOLEIL, qui brûloit le Monde,</l>
+               <l>Voit ſes Vaiſſeaux brûler ſur l'Onde,</l>
+               <l>Son Amiral eſt conſumé:</l>
+               <l>La Mer, Théatre des Batailles,</l>
+               <l>N'eſt plus qu'un Champ de Funérailles,</l>
+               <l>De mille débris parſemé;</l>
+               <l>Et deſſous la Flotte Ennemie,</l>
+               <l>Qui s'enfuit avec infamie,</l>
+               <l>Le Canal Britannique eſt un Lac enflamé.</l>
+            </lg>
+            <lg>
+               <l>Tout ſuccombe ſous nos Baniéres;</l>
+               <l>Des Eſcadres toutes entieres,</l>
+               <l>Eprouvent du feu les ardeurs:</l>
+               <l>De l'Ennemy mis en déroute</l>
+               <l>Le Sang qu'il perd, traçant ſa route,</l>
+               <l>Sert de Guide aux Vaiſſeaux Vainqueurs;</l>
+               <l>Et dans ſa Flotte diſperſée,</l>
+               <l>Que mille foudres ont percée,</l>
+               <l>On n'entend retentir que de triſtes clameurs.</l>
+            </lg>
+            <lg>
+               <l>TOURVILLE, qui voit ſa défaite,</l>
+               <l>Se bat fiérement en retraitte,</l>
+               <l>Et cherche en vain l'abry des Ports:</l>
+               <l>Sa Flotte qu'il crut Invincible,</l>
+               <l>N'eſt plus qu'une carcaſſe horrible,</l>
+               <l>Qu'une machine ſans reſſorts:</l>
+               <l>Et la Mer inſolente &amp; fiére,</l>
+               <l>N'eſt plus qu'un vaſte Cimétiére,</l>
+               <l>Dont le goufre engloûti ſes Vivants, &amp; ſes Morts.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:171938:3"/>
+               <l>Le Feu, le Sang, &amp; le carnage,</l>
+               <l>De l'Enfer aſſez vive image,</l>
+               <l>Aux plus hardis fait quelque horreur:</l>
+               <l>De nos Canons l'affreux tonnerre</l>
+               <l>Trouble l'air, ébranle la terre,</l>
+               <l>Les Côtes en tremblent de peur:</l>
+               <l>Et d'un Brulot la fiére audace,</l>
+               <l>Par tout ſe faiſant faire place,</l>
+               <l>Fait au SOLEIL ROYAL reſſentir ſa fureur.</l>
+            </lg>
+            <lg>
+               <l>Par une même deſtinée,</l>
+               <l>Toute ſa Flotte ruïnée,</l>
+               <l>Ou ſaute en l'air, ou coule à fonds:</l>
+               <l>Ce qu'il en reſte ſur les Ondes</l>
+               <l>Sont des reliques vagabondes,</l>
+               <l>Vains joüets des gouffres profonds;</l>
+               <l>Des Réchapez de la Tempête,</l>
+               <l>Dont on mépriſe la conquête,</l>
+               <l>Et qui ne valent pas la poudre des Canons.</l>
+            </lg>
+            <lg>
+               <l>Telle devient la Flotte entiére,</l>
+               <l>Qui rendoit la France ſi fiére,</l>
+               <l>Et qui faiſoit trembler SION:</l>
+               <l>Tel devient le deſſein tragique,</l>
+               <l>Q<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'une Infernale Politique,</l>
+               <l>Avoit formé contre ALBION.<note n="*" place="margin">L'Angleterre.</note>
+               </l>
+               <l>Loüons<g ref="char:punc">▪</g> donc le Dieu des Armées,</l>
+               <l>Par qui nos Flottes animées</l>
+               <l>L'arrête ſur le point de l'exécution.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:171938:4"/>
+               <l>Que ſous l'un &amp; ſous l'autre Pole</l>
+               <l>Le Tout-Puiſſant qui nous conſole,</l>
+               <l>Soit adoré des Nations;</l>
+               <l>Peuples qui parmy tant d'allarmes,</l>
+               <l>Ne ſemiez vos champs que de larmes,</l>
+               <l>Pouſſez des acclamations.</l>
+               <l>Et qu'aujourd'huy l'air ne réſonne</l>
+               <l>Que des chants que ma voix entonne,</l>
+               <l>A l'honneur du Dieu Fort, Chef de nos légions.</l>
+            </lg>
+            <lg>
+               <l>Coeurs affligez, prenez courage,</l>
+               <l>Nous allons voir ceſſer l'Orage,</l>
+               <l>Dont nous avons été battus:</l>
+               <l>Par la plus inſigne Victoire,</l>
+               <l>Que jamais ait décrit l'Hiſtoire,</l>
+               <l>Nos Ennemis ſont abatus:</l>
+               <l>Contre un complot noir &amp; barbare,</l>
+               <l>La Providence ſe déclare,</l>
+               <l>Et confond de l'Enfer les efforts ſuperflus.</l>
+            </lg>
+            <lg>
+               <l>ANGLOIS, HOLLANDOIS, fiers &amp; braves,</l>
+               <l>Que deux Rois vouloient rendre eſclaves,</l>
+               <l>Redoublez vos embraſſemens:</l>
+               <l>De vôtre Victoire Navale,</l>
+               <l>Dont la gloire n'a point d'égale,</l>
+               <l>Dreſſez d'éternels monumens:</l>
+               <l>Et pour la rendre plus complette,</l>
+               <l>Dans une concorde parfaite,</l>
+               <l>Loüez Dieu, qui préſide aux grands événemens.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:171938:4"/>
+               <l>Brave RUSSEL, Vaillant ALMONDE,</l>
+               <l>Grands Amiraux, qui deſſus l'Onde,</l>
+               <l>L'un de l'autre êtes les Echos:</l>
+               <l>Hauts Officiers; coeurs Intrépides,</l>
+               <l>Ennemis des Ames timides,</l>
+               <l>Lieutenants, Soldats, Matelots;</l>
+               <l>Et vous, Illuſtres Capitaines,</l>
+               <l>En fendant les humides Plaines,</l>
+               <l>Chantez à pleine Voix le Grand Maître des Flots.</l>
+            </lg>
+            <lg>
+               <l>ALLIEZ que le Ciel raſſemble,</l>
+               <l>Contre LOUIS, ſous qui tout tremble,</l>
+               <l>Pouſſez vos projets glorieux:</l>
+               <l>Renforcez la Puiſſante Ligue,</l>
+               <l>Qui ſeule peut ſervir de Digue</l>
+               <l>Contre ce Torrent furieux;</l>
+               <l>Et de nôtre grande Victoire,</l>
+               <l>Donnant à Dieu toute la gloire,</l>
+               <l>Elevez vôtre coeur juſqu'au plus haut des Cieux.</l>
+            </lg>
+            <lg>
+               <l>GRAND ROY, que la gloire environne,</l>
+               <l>Et qui d'une triple Couronne</l>
+               <l>Soûtiens ſi dignement le faix:</l>
+               <l>Imite David dans ſes Veilles,</l>
+               <l>Adore le Dieu des merveilles,</l>
+               <l>Qui remplit tes plus grands ſouhaits:</l>
+               <l>Et loin d'encenſer à toy même</l>
+               <l>A Dieu, qui t'éleve, &amp; qui t'aime,</l>
+               <l>Adreſſe tout lEncens que t'offrira la Paix.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:171938:5" rendition="simple:additions"/>
+               <l>PRINCESSE, la Gloire des Reines,</l>
+               <l>Qui de trois Etats tiens les rénes,</l>
+               <l>En l'abſence de ton Héros:</l>
+               <l>Benis celuy qui pour toy veille,</l>
+               <l>Qui te protége &amp; te conſeille,</l>
+               <l>Qui combat pour nous ſur les Plots:</l>
+               <l>Et que l'Egliſe déſolée,</l>
+               <l>Aujourd'huy par luy conſolée</l>
+               <l>Célebre châque jour, comme un jour de Repos.</l>
+            </lg>
+            <lg>
+               <l>Et Toy, PUISSANTE REPUBLIQUE,</l>
+               <l>Sage école de Politique;</l>
+               <l>Magazin de riches tréſors;</l>
+               <l>Huitiéme Merveille du Monde,</l>
+               <l>Que Dieu fait ſubſiſter par l'Onde,</l>
+               <l>Qui garde &amp; fait fleurir tes bords;</l>
+               <l>Contrepoids de la Tyrannie,</l>
+               <l>Benis l'Auteur de l'harmonie</l>
+               <l>Qu'on voit s'entretenir par de juſtes accords.</l>
+            </lg>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:171938:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
